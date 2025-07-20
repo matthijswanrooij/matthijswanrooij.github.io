@@ -47,7 +47,7 @@ Skills
   * Fluent in English (Cambridge C2 certified)
   * Strong proficiency in Polish
   * Strong proficiency in German (Goethe B2 certified)
-* Coding: Python, Mathematica and COMSOL Multiphysics
+* Coding: Python, Mathematica and COMSOL Multiphysics, Git
 * Typesetting: LaTeX
 * Visual design: Inkscape, PGF/TikZ
 

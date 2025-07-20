@@ -8,6 +8,17 @@ redirect_from:
 ---
 
 Please check out my CV and recent projects.
+I will graduate from the University of Amsterdam with an MSc in Theoretical Physics at the end of August, with a specialisation in theoretical condensed matter physics.
+
+Currently, my professional interests are focused around the following topics:
+* conformal field theory in condensed matter physics
+* critical phenomena
+* integrable systems
+* theoretical foundations of machine learning
+
+I have a fair amount of experience in quantum- and statistical mechanics, quantum field theory and quantum many-body physics, and am always looking to learn more.
+
+
 
 <!---
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
