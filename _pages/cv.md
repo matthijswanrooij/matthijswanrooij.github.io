@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV as PDF](/files/CV.pdf)
+[1-page compact PDF version (recommended)](/files/CV.pdf)
 
 {% include base_path %}
 
