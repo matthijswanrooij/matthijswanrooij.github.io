@@ -7,46 +7,63 @@ redirect_from:
   - /resume
 ---
 
+[Download CV as PDF](/files/CV.pdf)
+
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **MSc in Theoretical physics**, University of Amsterdam, 2023-2025 (expected)
+  * Thesis title: Integrability, Bethe Ansatz and open quantum systems
+  * Skills: Mathematics, numerical simulations, scientific collaboration
+* **BSc in Physics**, Leiden University, 2020-2023
+  * Thesis title: Superconductivity in fractal geometries
+  * Skills: Electron beam lithography, nano fabrication, cleanroom experience, numerical simulations, data analysis, building & calibration of experimental setups
+* **BSc in Civil Engineering**, TU Delft, 2019-2023
+  * Thesis title: Performance of wave breaker formulations in SWAN
+  * Skills:  Numerical simulations, data analysis
+* **Highschool**, Gymnasium Haganum, 2013-2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-now: **Production officer at SciPost**
+  * Duties include: Editing and formatting scientific papers in physics.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-now: **Student mentor & ambassador**
+  * Duties include: Mentoring 1st year master's students pursuing theoretical physics, answering questions of prospective students.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: **Teaching assistant** for the course 'Programming methods' (Leiden University)
+  * Duties included: Answering questions, supervision, grading homework and exams.
+
+* 2022-2023: **Student coach** (Leiden University)
+  * Duties included: Helping students to write their thesis.
+
+* 2019-2020: **Retail employee** at Dunkin' donuts & Kruidvat
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * Fluent in Dutch
+  * Fluent in English (Cambridge C2 certified)
+  * Strong proficiency in Polish
+  * Strong proficiency in German (Goethe B2 certified)
+* Coding: Python, Mathematica and COMSOL Multiphysics
+* Typesetting: LaTeX
+* Visual design: Inkscape, PGF/TikZ
 
+Miscellaneous experience
+======
+* PAD Preisträgerprogramm: Study trip to Germany awarded by the German government, 2018
+* Pre-university: Pre-university classes in astronomy at Leiden University, 2018
+
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +79,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

@@ -5,10 +5,26 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<h2>Theses</h2>
+<ul>
+  {% for item in site.portfolio %}
+    {% if item.category == "thesis" %}
+      <li>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a><br>
+        {{ item.description }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<h2>Presentations</h2>
+<ul>
+  {% for item in site.portfolio %}
+    {% if item.category == "presentation" %}
+      <li>
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a><br>
+        {{ item.description }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
