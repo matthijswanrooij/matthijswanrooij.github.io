@@ -13,13 +13,13 @@ redirect_from:
 
 Education
 ======
-* **MSc in Theoretical physics**, University of Amsterdam, 2023-2025 (expected)
+* **MSc in theoretical physics**, University of Amsterdam, 2023-2025 (expected)
   * Thesis title: Integrability, Bethe Ansatz and open quantum systems
   * Skills: Mathematics, numerical simulations, scientific collaboration
-* **BSc in Physics**, Leiden University, 2020-2023
+* **BSc in physics**, Leiden University, 2020-2023
   * Thesis title: Superconductivity in fractal geometries
   * Skills: Electron beam lithography, nano fabrication, cleanroom experience, numerical simulations, data analysis, building & calibration of experimental setups
-* **BSc in Civil Engineering**, TU Delft, 2019-2023
+* **BSc in civil engineering**, TU Delft, 2019-2023
   * Thesis title: Performance of wave breaker formulations in SWAN
   * Skills:  Numerical simulations, data analysis
 * **Highschool**, Gymnasium Haganum, 2013-2019

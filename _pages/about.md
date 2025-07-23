@@ -20,7 +20,7 @@ Currently, my professional interests are centred around the following topics:
 
 **Analytical skills:** I have a fair amount of experience in quantum- and statistical mechanics, quantum field theory and quantum many-body physics, and am always looking to learn more.
 
-**Experimental/Lab skills:** I have conducted a 4-month research project in a quantum optics lab, which introduced me to many hand-on skills in nanofabrication: cleanroom procedures, wafer cutting, preparation and inspection, spin coating, electron-beam lithography, sputtering, lift-off and focused ion beam.
+**Experimental/Lab skills:** I have conducted a 4-month research project in a quantum optics lab, which introduced me to many hand-on skills in nanofabrication: cleanroom procedures, wafer cutting, preparation and inspection, spin coating, electron-beam lithography, sputtering, lift-off, wire bonding and focused ion beam.
 I have also worked with cryogenic systems and magnetic fields, and have operated complex measurement systems.
 Throughout my undergraduate education, I have acquired foundational skills in the alignment of optical systems, circuit design, operation of test equipment (oscilloscopes, voltmeters, multimeters, ...) and implementation of safety protocols.
 As part of these projects, I have had ample opportunity to practice with calibration of experimental setups and the analysis of data, including statistical validation, error propagation, noise reduction and Fourier analysis. 
