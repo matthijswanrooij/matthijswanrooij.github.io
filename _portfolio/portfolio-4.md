@@ -1,11 +1,10 @@
 ---
-title: "Presentation: Integrable systems &amp; the Lieb-Liniger model"
-excerpt: "Integrable systems &amp; the Lieb-Liniger model<br/>"
+title: "Presentation: Performance of wave breaker formulations in SWAN"
+excerpt: "Performance of wave breaker formulations in SWAN presentation<br/>"
 collection: portfolio
 category: presentation
 ---
 
-Presentation for the course 'Student seminar theoretical physics' in the second year of the master's programme Theoretical Physics (University of Amsterdam).
-I presented an introduction to my research project.
+Presentation for my bachelor research project (Delft University of Technology).
 
-[Download presentation as PDF](/files/Presentation_SS_UvA.pdf)
+[Download presentation as PDF](/files/Presentation_thesis_Delft.pdf)

@@ -12,7 +12,7 @@ I will graduate from the University of Amsterdam by the end of August with a mas
 
 <hr style="border:2px solid gray">
 
-Currently, my professional interests are centred around the following topics:
+Currently, my professional interests in physics are centred around the following topics:
 * conformal field theory in condensed matter physics
 * critical phenomena
 * integrable systems and quantum chaos
