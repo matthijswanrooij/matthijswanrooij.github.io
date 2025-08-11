@@ -1,10 +1,10 @@
 ---
-title: "Presentation: Performance of wave breaker formulations in SWAN"
-excerpt: "Performance of wave breaker formulations in SWAN presentation<br/>"
+title: "Presentation: Random matrix models "
+excerpt: "Random matrix models <br/>"
 collection: portfolio
 category: presentation
 ---
 
-Presentation for my bachelor research project (Delft University of Technology).
+Presentation for the course 'Advanced condensed matter theory' in the master's programme Theoretical Physics (University of Amsterdam).
 
-[Download presentation as PDF](/files/Presentation_thesis_Delft.pdf)
+[Download presentation as PDF](/files/Presentation_RMM_UvA.pdf)

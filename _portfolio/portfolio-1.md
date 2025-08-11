@@ -1,10 +1,10 @@
 ---
-title: "BSc thesis: Superconductivity in fractal geometries"
-excerpt: "Superconductivity in fractal geometries<br/>"
+title: "MSc thesis: Integrability, Bethe Ansatz and open quantum systems"
+excerpt: "Integrability, Bethe Ansatz and open quantum systems<br/>"
 collection: portfolio
 category: thesis
 ---
 
-Thesis submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Physics (Leiden University), under supervision of Dr. K Lahabi and Dr. Remko Fermin.
+Thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in Theoretical Physics (University of Amsterdam), under supervision of Dr. Vladimir Gritsev and Prof. Dr. Jean-Sébastien Caux.
 
-[Download thesis as PDF](/files/Thesis_Leiden.pdf)
+[Download thesis as PDF](/files/Thesis_UvA.pdf)

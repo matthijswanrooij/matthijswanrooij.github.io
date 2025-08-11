@@ -1,10 +1,10 @@
 ---
-title: "Presentation: Random matrix models "
-excerpt: "Random matrix models <br/>"
+title: "Presentation: Superconductivity in fractal geometries"
+excerpt: "Superconductivity in fractal geometries presentation<br/>"
 collection: portfolio
 category: presentation
 ---
 
-Presentation for the course 'Advanced condensed matter theory' in the master's programme Theoretical Physics (University of Amsterdam).
+Presentation for my bachelor research project (Leiden University).
 
-[Download presentation as PDF](/files/Presentation_RMM_UvA.pdf)
+[Download presentation as PDF](/files/Presentation_thesis_Leiden.pdf)
