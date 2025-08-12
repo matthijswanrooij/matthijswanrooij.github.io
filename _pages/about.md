@@ -13,19 +13,19 @@ I will graduate from the University of Amsterdam by the end of August with a mas
 <hr style="border:2px solid gray">
 
 Currently, my professional interests in physics are centred around the following topics:
-* conformal field theory in condensed matter physics
-* critical phenomena
+* lithography and semiconductor engineering
+* conformal field theory and critical phenomena in condensed matter physics
 * integrable systems and quantum chaos
 * theoretical foundations of machine learning
 
 **Analytical skills:** I have a fair amount of experience in quantum- and statistical mechanics, quantum field theory and quantum many-body physics, and am always looking to learn more.
 
-**Experimental/Lab skills:** I have conducted a 4-month research project in a quantum optics lab, which introduced me to many hand-on skills in nanofabrication: cleanroom procedures, wafer cutting, preparation and inspection, spin coating, electron-beam lithography, sputtering, lift-off, wire bonding and focused ion beam.
+**Experimental/Lab skills:** I have conducted a 5-month research project in a quantum optics lab (Leiden Institute of Physics, Lahabi lab), where I acquired hand-on skills in nanofabrication: cleanroom procedures, wafer cutting, preparation and inspection, spin coating, electron-beam lithography, sputtering, lift-off, wire bonding and focused ion beam.
 I have also worked with cryogenic systems and magnetic fields, and have operated complex measurement systems.
-Throughout my undergraduate education, I have acquired foundational skills in the alignment of optical systems, circuit design, operation of test equipment (oscilloscopes, voltmeters, multimeters, ...) and implementation of safety protocols.
+Throughout my undergraduate education, I have been trained in the alignment of optical systems, circuit design, operation of test equipment (oscilloscopes, voltmeters, multimeters, ...) and implementation of safety protocols.
 As part of these projects, I have had ample opportunity to practice with calibration of experimental setups and the analysis of data, including statistical validation, error propagation, noise reduction and Fourier analysis. 
 
-**Numerical skills:** I am proficient in Python and have good working knowledge of Mathematica. My experience with numerical problems includes finding solutions to large systems of (nonlinearly) coupled equations, implementing and assessing the performance of various discretization and numerical integration schemes, boundary value problems and stability analysis. I also have limited knowledge in the implementation of tensor network algorithms.
+**Numerical skills:** I am proficient in Python and have a solid working knowledge of Mathematica. My experience with numerical problems includes Monte Carlo simulation, implementing and assessing the performance of various discretization and numerical integration schemes, boundary value problems and stability analysis. I also have limited experience with tensor network algorithms.
 
 <hr style="border:2px solid gray">
 
