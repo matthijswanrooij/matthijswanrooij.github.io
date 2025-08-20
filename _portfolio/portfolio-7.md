@@ -1,10 +1,10 @@
 ---
-title: "Presentation: Performance of wave breaker formulations in SWAN"
-excerpt: "Performance of wave breaker formulations in SWAN presentation<br/>"
+title: "Presentation: Superconductivity in fractal geometries"
+excerpt: "Superconductivity in fractal geometries presentation<br/>"
 collection: portfolio
 category: presentation
 ---
 
-Presentation for my bachelor research project (Delft University of Technology).
+Presentation for my bachelor research project (Leiden University).
 
-[Download presentation as PDF](/files/Presentation_thesis_Delft.pdf)
+[Download presentation as PDF](/files/Presentation_thesis_Leiden.pdf)

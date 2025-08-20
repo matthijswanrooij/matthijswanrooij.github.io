@@ -1,10 +1,10 @@
 ---
-title: "Presentation: Random matrix models "
-excerpt: "Random matrix models <br/>"
+title: "Presentation: Integrability, Bethe Ansatz and open quantum system"
+excerpt: "Presentation: Integrability, Bethe Ansatz and open quantum system <br/>"
 collection: portfolio
 category: presentation
 ---
 
-Presentation for the course 'Advanced condensed matter theory' in the master's programme Theoretical Physics (University of Amsterdam).
+Presentation for my master's thesis (University of Amsterdam).
 
-[Download presentation as PDF](/files/Presentation_RMM_UvA.pdf)
+[Download presentation as PDF](/files/Presentation_thesis_UvA.pdf)
